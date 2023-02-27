@@ -1,0 +1,117 @@
+.mrg0 {
+    margin: 0;
+}
+.f-z-12 {
+    font-size: 12px;
+}
+.f-z-26 {
+    font-size: 26px;
+}
+.f-z-52 {
+    font-size: 52px;
+}
+.f-z-20 {
+    font-size: 20px;
+}
+.f-w-200 {
+    font-weight: 200;
+}
+.f-w-700 {
+    font-weight: 700;
+}
+.t-alg-cent {
+    text-align: center;
+}
+.f-fam-MST {
+    font-family: 'Montserrat', sans-serif
+}
+.f-fam-ss {
+    font-family: sans-serif;
+}
+.t-trm-upcs {
+    text-transform: uppercase;
+}
+.f-stl-itl {
+    font-style: italic;
+}
+.clr-wht {
+    color: white;
+}
+.clr-blc {
+    color: black;
+}
+.bkg-grn {
+    background-color: 	#8fbca0;
+}
+.bkg-wht-smk {
+    background-color: whitesmoke;
+}
+.bkg-img {
+    background-image: url(img/les-tuman-stvoly.jpg) ;
+}
+.disp-flx {
+    display: flex;
+}
+.disp-flx-cnt {
+    align-items: center;
+    justify-content: center;
+}
+.flx-dir-clm {
+    flex-direction: column;
+}
+.flx-dir-row {
+    flex-direction: row;
+}
+.gp-10 {
+    gap: 10px;
+}
+.gp-30 {
+    gap: 30px;
+}
+.gp-100 {
+    gap: 100px;
+}
+.hgt {
+    height: 700px;
+}
+.wdth-25 {
+    width: 75%;
+}
+.b-rad-20 {
+    border-radius: 20px;
+}
+.bord-0 {
+    border: 0;
+}
+.btn-sz {
+    width: 125px;
+    height: 30px;
+}
+.img-1-sz {
+    width: 500px;
+    height: 350px;
+}
+.img-2-sz {
+    width: 500px;
+    height: 300px;
+}
+.pad-100 {
+    padding: 100px;
+}
+.cube-350-15 {
+    width: 335px;
+    height: 325px;
+}
+.line-bl {
+    width: 270px;
+    height: 200px;
+}
+.pad-15 {
+    padding: 15px;
+}
+.pad-50 {
+    padding: 50px;
+}
+.bord-green {
+    border: solid 2px green;
+}
